@@ -7,7 +7,7 @@ npm install
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+npm run dev
 ```
 
 ### Compiles and minifies for production
@@ -17,7 +17,7 @@ npm run build
 
 ### Run your unit tests
 ```
-npm run test:unit
+npm run test
 ```
 
 ### Lints and fixes files
@@ -25,5 +25,18 @@ npm run test:unit
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Clean cache
+```
+npm run cache
+```
+
+## Improvements
+```
+Use vue-i18n for text in different languages
+Migration Version to Vue3/Vite/CompositionApi
+Better Styles
+Use taiwind-css library
+More Unit Test
+```
+## Hours
+6h moreless
